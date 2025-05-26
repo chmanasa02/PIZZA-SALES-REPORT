@@ -38,4 +38,17 @@ To analyze pizza sales data in order to uncover trends, identify top-performing 
 ## 📁 Project Files
 - <code>pizza_sales_data.csv</code> – Dataset used in analysis
 - <code>Pizza_Sales_Report.pbix</code> – Power BI Template File containing the report structure, visuals, and DAX formulas.
+***
+## 🚀Getting Started
+Clone the repository : 
+>
+
+## Demo Of Project
+HOME - 
+
+![HOME](https://github.com/user-attachments/assets/75bc65c6-993c-42be-97de-c81f018ccec5)
+
+BEST/WORST SELLERS - 
+
+![Best,Worst Sellers](https://github.com/user-attachments/assets/b54eed2e-f98c-44e0-a53c-d150ba956fc6)
 
