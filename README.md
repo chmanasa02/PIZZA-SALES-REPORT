@@ -27,7 +27,7 @@ To analyze pizza sales data in order to uncover trends, identify top-performing 
 - Time Period: January 2015 – December 2015
 - Records: ~50,000 rows
 ***
-## 📌📈 Key Features
+## 📌 Key Features
 - Total Revenue, Quantity Sold, Average Order Value
 - Hourly and Daily Sales Trends
 - Top Pizzas by Revenue and Quantity
