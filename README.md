@@ -41,7 +41,7 @@ To analyze pizza sales data in order to uncover trends, identify top-performing 
 ***
 ## 🚀Getting Started
 Clone the repository : 
->
+> git clone https://github.com/yourusername/PIZZA-SALES-REPORT.git
 
 ## Demo Of Project
 HOME - 
